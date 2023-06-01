@@ -2,7 +2,7 @@
 Baykar teknik mülakatı için django ile geliştirdiğim proje
 
 
-<img src ="https://github.com/ahmetunal6/Baykar_Task/assets/129793902/f282176d-d902-45e6-b65d-9648534d4971" width="900" height="600"/>
+<img src ="https://github.com/ahmetunal6/Baykar_Task/assets/129793902/f282176d-d902-45e6-b65d-9648534d4971" />
 <img src ="https://github.com/ahmetunal6/Baykar_Task/assets/129793902/0918e6fc-994e-478b-a515-5185544ccc7a" width="900" height="600"/>
 <img src ="https://github.com/ahmetunal6/Baykar_Task/assets/129793902/57101910-4a91-40c8-92bb-2453f1c2e29d" width="900" height="600"/>
 <img src ="https://github.com/ahmetunal6/Baykar_Task/assets/129793902/af9741a0-2db1-4ca7-8705-609332c773dd" width="900" height="600"/>
